@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "postcard"]
+	path = postcard
+	url = https://github.com/novonordisk-opensource/postcard
 [submodule "zephyr"]
 	path = zephyr
 	url = https://github.com/novonordisk-opensource/zephyr
