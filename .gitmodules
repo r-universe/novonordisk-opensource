@@ -5,6 +5,9 @@
 [submodule "postcard"]
 	path = postcard
 	url = https://github.com/novonordisk-opensource/postcard
+[submodule "whirl"]
+	path = whirl
+	url = https://github.com/novonordisk-opensource/whirl
 [submodule "zephyr"]
 	path = zephyr
 	url = https://github.com/novonordisk-opensource/zephyr
