@@ -1,0 +1,8 @@
+[
+  {
+    "package": "whirl",
+    "url": "https://github.com/novonordisk-opensource/whirl",
+    "via": ["connector"],
+    "from": "connector"
+  }
+]
