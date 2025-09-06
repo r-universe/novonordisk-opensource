@@ -5,6 +5,9 @@
 [submodule "connector"]
 	path = connector
 	url = https://github.com/novonordisk-opensource/connector
+[submodule "connector.databricks"]
+	path = connector.databricks
+	url = https://github.com/novonordisk-opensource/connector.databricks
 [submodule "postcard"]
 	path = postcard
 	url = https://github.com/novonordisk-opensource/postcard
