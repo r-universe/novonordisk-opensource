@@ -1,19 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/novonordisk-opensource/novonordisk-opensource.r-universe.dev
 	branch = HEAD
 [submodule "connector"]
 	path = connector
-	url = https://github.com/novonordisk-opensource/connector
+	url = https://github.com/NovoNordisk-OpenSource/connector
 [submodule "connector.databricks"]
 	path = connector.databricks
-	url = https://github.com/novonordisk-opensource/connector.databricks
+	url = https://github.com/NovoNordisk-OpenSource/connector.databricks
+[submodule "connector.sharepoint"]
+	path = connector.sharepoint
+	url = https://github.com/NovoNordisk-OpenSource/connector.sharepoint
 [submodule "postcard"]
 	path = postcard
-	url = https://github.com/novonordisk-opensource/postcard
+	url = https://github.com/NovoNordisk-OpenSource/postcard
 [submodule "whirl"]
 	path = whirl
-	url = https://github.com/novonordisk-opensource/whirl
+	url = https://github.com/NovoNordisk-OpenSource/whirl
 [submodule "zephyr"]
 	path = zephyr
-	url = https://github.com/novonordisk-opensource/zephyr
+	url = https://github.com/NovoNordisk-OpenSource/zephyr
