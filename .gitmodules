@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/novonordisk-opensource/novonordisk-opensource.r-universe.dev
 	branch = HEAD
+[submodule "S7schema"]
+	path = S7schema
+	url = https://github.com/NovoNordisk-OpenSource/S7schema
 [submodule "connector"]
 	path = connector
 	url = https://github.com/NovoNordisk-OpenSource/connector
