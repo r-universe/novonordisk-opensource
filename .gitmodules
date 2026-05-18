@@ -14,6 +14,12 @@
 [submodule "connector.sharepoint"]
 	path = connector.sharepoint
 	url = https://github.com/NovoNordisk-OpenSource/connector.sharepoint
+[submodule "mighty.component"]
+	path = mighty.component
+	url = https://github.com/NovoNordisk-OpenSource/mighty.component
+[submodule "mighty.metadata"]
+	path = mighty.metadata
+	url = https://github.com/NovoNordisk-OpenSource/mighty.metadata
 [submodule "postcard"]
 	path = postcard
 	url = https://github.com/NovoNordisk-OpenSource/postcard
